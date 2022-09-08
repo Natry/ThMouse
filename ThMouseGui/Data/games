@@ -3,7 +3,7 @@
 ;
 ;gameFile positionAddress dataType pixelRate offset
 ;
-ìåï˚çgñÇãΩ.exe [006CB0A0] float 1 (0,0)
+‚Äú≈í‚Ä¢√ª¬çg‚Äì‚Äö‚Äπ¬Ω.exe [006CB0A0] float 1 (0,0)
 th06.exe [006CB0A0] float 1 (0,0)
 th07_CN_S.exe [0057593C][0000001C][00000930] float 1 (0,0)
 th07.exe [004B8408]            float 1   (0,0)
@@ -26,3 +26,4 @@ th13c.exe [004C22C4][000005c4] int 128 (225,17)
 ;640*960: th14.exe [004DB67C][000005ec] int 128 (225,17)
 ;960*720: th14.exe [004DB67C][000005ec] int 84 (338,17)
 th14.exe [004DB67C][000005ec] int 64 (450,34)
+th15.exe [004E9BB8][00000624]  int 128 (225,17)
